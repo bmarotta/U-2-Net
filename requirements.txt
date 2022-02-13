@@ -1,9 +1,9 @@
-numpy==1.15.2
-scikit-image==0.14.0
-torch
-torchvision
-pillow==8.1.1
-opencv-python
-paddlepaddle
-paddlehub
-gradio
+# numpy
+scikit-image #minimal
+torch #minimal
+torchvision #minimal
+# pillow
+# opencv-python
+# paddlepaddle
+# paddlehub
+# gradio
